@@ -1,0 +1,6 @@
+pyvenv.cfg
+/Include/
+/Scripts/
+/Lib/
+/src/csvupload/__pycache__
+/src/panhealth/__pycache__
