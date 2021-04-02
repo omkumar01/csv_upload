@@ -1,4 +1,5 @@
 pyvenv.cfg
+/env/
 /Include/
 /Scripts/
 /Lib/
